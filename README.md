@@ -6,4 +6,4 @@ To launch the server stay in root directory of BWebRtc
 ```sh
 $ node server.js
 ``` 
-and go here : http://localhost:8080
+and go here :[http://localhost:8080] (http://localhost:8080)
